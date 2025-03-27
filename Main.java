@@ -73,7 +73,7 @@ public static void startGame() {
   System.out.println("");
   System.out.println("Today's market:");
   System.out.println("");
-  System.out.println("Symbol             Price             Change             % Change");
+  System.out.println("Symbol             Price             $ Change           % Change");
   System.out.println("AAPL               192.45            + 4.74             2.53 ▲  ");
   System.out.println("TSLA               180.23            + 6.57             3.78 ▲  ");
   System.out.println("AMZN               184.89            + 4.39             2.43 ▲  ");
